@@ -1,0 +1,29 @@
+#header {
+    background: url(/img/custom/h-brown/header.png) 0 100% no-repeat;
+} * html #header { background-image: url(/img/custom/h-brown/header.gif); }
+
+.intro .pro {
+	background: url(/img/custom/h-brown/pro.png) no-repeat;
+}
+
+* html .intro .pro { background: url(/img/custom/h-brown/pro.gif) no-repeat; }
+
+.pro-2 {
+	background: url(/img/custom/h-brown/pro-small.gif) no-repeat;
+}
+
+#header a:link, #header a:visited, #header span {
+    color: #a59e8f;
+}
+
+#header a:hover, #header a:active {
+    color: #fff;
+}
+
+#header #nav-primary span, #header #nav-primary a.current {
+    color: #fff;
+}
+
+a:hover img {
+    border-color: #a59e8f;
+}

@@ -1,0 +1,155 @@
+/*******************
+IMAGES ONLY
+*******************/
+
+#contents {
+	background: url(/img/custom/n-blue/overlay.png);
+}
+
+#side-2 ul.filter li span,
+#page-contents,
+#nav-secondary a,
+#nav-secondary span,
+#nav-secondary span,
+#nav-secondary a.current {
+	background: url(/img/custom/n-blue/page-back.png);
+}
+
+#page {
+	background: url(/img/custom/n-blue/page-footer.png) 100% 100% no-repeat;
+} * html #page { background: none; }
+
+ul.notes li, #note-div, h3.public-filter {
+	background: url(/img/custom/n-blue/note-back.png) 0 100% no-repeat;
+} 
+
+* html ul.notes li, * html #note-div, * html h3.public-filter {
+	background-image: url(/img/custom/n-blue/note-back.gif);
+}
+
+ul.notes li.reply-note {
+	background-image: url(/img/custom/n-blue/reply-back.png);
+} 
+
+* html ul.notes li.reply-note {
+	background-image: url(/img/custom/n-blue/reply-back.gif);
+}
+
+#rating ul {
+    background: url(/img/custom/n-blue/stars.gif) 0 -100px;
+}
+
+#rating ul a {
+    background: url(/img/custom/n-blue/stars.gif) 0 -50px; /*invisible*/
+}
+
+#rating li.current-rating {
+    background: url(/img/custom/n-blue/stars.gif) 0 -200px;
+}
+
+.rating {
+    background: url(/img/custom/n-blue/stars.gif) 0 -90px repeat-x;
+}
+
+.stars {
+    background: url(/img/custom/n-blue/stars-small.gif) 0 -100px repeat-x;
+}
+
+.rating-05, .rating-10, .rating-15, .rating-20, .rating-25, .rating-30, .rating-35, .rating-40, .rating-45, .rating-50 {
+    background: url(/img/custom/n-blue/stars.gif) 0 -200px repeat-x;
+}
+
+.stars-05, .stars-10, .stars-15, .stars-20, .stars-25, .stars-30, .stars-35, .stars-40, .stars-45, .stars-50 {
+    background: url(/img/custom/n-blue/stars-small.gif) 0 0 repeat-x;
+}
+
+#loading-note {
+	background-image: url(/img/custom/n-blue/loading.gif);
+}
+
+
+/*******************
+COLORS
+*******************/
+
+#replies,
+form#custom-theme img:hover,
+ul.notes h4 .reply,
+ul.notes h4 .author,
+ul.notes h4 abbr,
+ul.notes h4 em,
+ul.notes h4 input,
+.intro img.user,
+.photo-loading,
+img.user,
+.replies .user-image,
+.menu-sub a,
+#side-1 h3,
+#side-2 h3,
+#side-2 ul.filter li a,
+#side-2 ul.filter li span,
+#side-1 ul.menu li a,
+#side-1 ul.menu li span {
+	border-color: #70a7c3;
+}
+
+.add-friends li,
+#replies,
+.event-list dt,
+#replies li,
+.pending li,
+.friend-results li
+fieldset {
+    border-top: 1px solid #91bcd2;
+}
+
+.friends-select {
+	border-color: #739825;
+}
+
+a.note-file, a.note-url {
+	border-color: #fff #88b5bf #88b5bf #fff;
+}
+
+.form-error {
+	color: #de0000;
+}
+
+#statusmsg, #errormsg {
+    background: #cdeb8b;
+    color: #4a6410;
+}
+
+#statusmsg a, #errormsg a {
+	color: #830000;
+}
+
+#new-note .message-type a.note-current,
+.note-header,
+ul.notes li .note-contents:hover .reply-to,
+ul.notes li em.entry-title a,
+ul.notes li em.entry-title {
+	background-color: #9dc7d2;
+}
+
+body,
+td,
+th,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul.notes li em.entry-title a,
+.message-type a.note-current,
+ul.notes h4,
+.note-display h4,
+h4 a.sender,
+.stars-note div,
+.reply-to {
+	color: #394244;
+}
+
+* html #page-contents {
+	background: #a8cbd4;
+}
