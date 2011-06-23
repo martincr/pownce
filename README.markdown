@@ -14,4 +14,4 @@ main.js
 member.js
 upload.js - http://lists.danga.com/pipermail/perlbal/2005-November/000138.html
 ui.js - jQuery helper.
-jQuery.ScrollTo - Easy element scrolling using jQuery - http://flesler.blogspot.com
+jQuery.ScrollTo - Easy element scrolling using jQuery - http://flesler.blogspot.com/2007/10/jqueryscrollto.html
